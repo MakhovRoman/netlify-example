@@ -1,5 +1,5 @@
 # Global settings applied to the whole site.
-#
+# Ho-Ho-Ho
 # “base” is the directory to change to before starting build. If you set base:
 #        that is where we will look for package.json/.nvmrc/etc, not repo root!
 # “command” is your build command.
